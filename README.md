@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fadligg
-- 👀 I’m interested in Game Developer and Software Developer
+- 👀 I’m interested in Game Development and Software Development
 - 🌱 I’m currently learning Java
 
 <!---
