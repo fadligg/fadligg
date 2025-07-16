@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fadligg
-- 👀 I’m interested in Game Development and Software Development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web Development and Software Development
 
 <!---
 fadligg/fadligg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
