@@ -68,6 +68,14 @@ Saya memiliki pengalaman menggunakan berbagai teknologi dalam proyek akademik ma
 
 ---
 
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadligg&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%" alt="Fadli's Activity Graph" />
+</div>
+
+---
+
 ### 🛠️ Featured Projects
 
 Berikut adalah beberapa highlight proyek yang pernah saya kerjakan:
